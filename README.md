@@ -32,14 +32,6 @@ Somos Anderson Silva • Fernanda Sasso • Flávia Paião • Guilherme Rubrae 
 <h2 align="center">📫 Contatos:</h2>
 
 ###
-
-<div align="center">
-  <div style="display: flex; justify-content: space-around;">
-    <a href="https://github.com/andersoncaarlos" target="_blank" style="text-decoration: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="45" alt="GitHub Anderson" />
-      <p style="text-align: center;">Anderson Silva</p>
-    </a>
-    
     
   <a href="https://github.com/andersoncaarlos" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="45" alt="GitHub Anderson" />
